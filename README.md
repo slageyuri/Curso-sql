@@ -1,1 +1,1 @@
-# Curso-sqk
+# Curso-SQL
